@@ -1,0 +1,14 @@
+= btw
+
+This is just a script that prints and vocalises notifications.
+
+== Example usage
+
+```
+./btw You are both reading and hearing this sentence.
+```
+
+== Dependencies (at least on Debian)
+
+* espeak
+* libnotify-bin
